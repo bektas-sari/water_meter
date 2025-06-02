@@ -1,4 +1,4 @@
-# 💧 Daily Water Tracker (FLUTTER APP)
+# 💧 Daily Water Tracker (Flutter APP)
 
 Track your daily water intake with a clean and modern application.
 
@@ -26,7 +26,7 @@ Track your daily water intake with a clean and modern application.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/water-tracker-app.git
+   git clone https://github.com/bektas-sari/water-tracker-app.git
    ```
 
 2. **Navigate to the project directory**
