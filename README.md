@@ -77,7 +77,4 @@ Academia: https://independent.academia.edu/bektassari <br>
 
 ## 📃 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-Daily Water Tracker is a clean and modern Flutter app designed to help users monitor their daily water intake. Set personalized goals, manually log consumed water in milliliters, and get real-time progress updates with visual feedback. The app features a user-friendly interface with light blue tones and supports goal completion notifications and easy resetting. Ideal for maintaining hydration habits with a smooth and intuitive experience.
+This project is licensed under the MIT License 
