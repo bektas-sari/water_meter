@@ -1,6 +1,6 @@
-# 💧 Daily Water Tracker
+# 💧 Daily Water Tracker (FLUTTER APP)
 
-Track your daily water intake with a clean and modern Flutter application.
+Track your daily water intake with a clean and modern application.
 
 ---
 
